@@ -48,4 +48,8 @@ entrenamiento y el 20% para el test. Utilice la plataforma Anaconda.<br />
 8.- Aplique el algoritmo de KMeans para obtener los cluster (Graficar sus centroides) del data set de
 Iris. Utilice la plataforma Anaconda. <br />
 
-
+Se utilizarán las librerias: 
+matplotlib<br />
+Sklearn<br />
+numpy<br />
+pandas<br />
